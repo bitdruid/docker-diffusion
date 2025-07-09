@@ -29,5 +29,10 @@ Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/sdwebui-forge
 - Cd into desired ui `cd <ui>`
 - Build the image like `docker buildx build -t <image-name>:latest . --load`
 - Create a compose with the given stats in README.md or insert into portainer!
-- <b>Modify volumes as needed!
-- <b>Modify ports as needed!
+- <b>Modify volumes as needed!</b>
+- <b>Modify ports as needed!</b>
+
+# Contribution
+- Contribute as you wish
+- Add issues
+- Make suggestions
