@@ -10,19 +10,19 @@ Checkout some stable-diffusion UIs in docker by building itself easy and straigh
 
 ## easydiffusion
 Origin: https://github.com/easydiffusion/easydiffusion <br>
-Tryout: https://github.com/bitdruid/docker_diffusion/tree/easydiffusion
+Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/easydiffusion
 ## comfyui
 Origin: https://github.com/comfyanonymous/ComfyUI <br>
-Tryout: https://github.com/bitdruid/docker_diffusion/tree/comfyui
+Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/comfyui
 ## sdnext
 Origin: https://github.com/vladmandic/sdnext <br>
-Tryout: https://github.com/bitdruid/docker_diffusion/tree/sdnext
+Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/sdnext
 ## stable-diffusion-webui
 Origin: https://github.com/AUTOMATIC1111/stable-diffusion-webui <br>
-Tryout: https://github.com/bitdruid/docker_diffusion/tree/sdwebui
+Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/sdwebui
 ## stable-diffusion-webui-forge
 Origin: https://github.com/lllyasviel/stable-diffusion-webui-forge <br>
-Tryout: https://github.com/bitdruid/docker_diffusion/tree/sdwebui-forge
+Tryout: https://github.com/bitdruid/docker_diffusion/tree/main/sdwebui-forge
 
 # Use
 - Clone the Repo `git clone https://github.com/bitdruid/docker_diffusion`
