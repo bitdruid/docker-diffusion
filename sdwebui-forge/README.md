@@ -24,3 +24,10 @@
 volumes:
   sdwebui-forge:
 ```
+
+# blackwell support
+```
+. /stable-diffusion-webui-forge/venv/bin/activate
+pip uninstall --yes torch torchvision torchaudio
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+```
